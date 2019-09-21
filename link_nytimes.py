@@ -84,8 +84,8 @@ def main():
             try:
                 tweet = next(iterator)
                 api.update_status(status=tweet)
-                print(tweet)
-                time.sleep(600) 
+#                print(tweet)
+                time.sleep(10800) 
             except StopIteration:
                 news_iterators[i] = globals()[news_funcs[i]]()
 
