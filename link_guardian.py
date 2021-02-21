@@ -54,13 +54,13 @@ def scrape_guardian():
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
     links = tree.xpath('//div[@class="fc-item__container"]/a/@href')
-
+    
 #we got the content/link above
 
     for link in links:
         r = requests.get(link, headers=HEADERS)
         blog_tree = fromstring(r.content)
-        paras = blog_tree.xpath('//div[@class="content__article-body from-content-api js-article__body"]/p')
+        paras = blog_tree.xpath('//p[@class="css-38z03z"]')
         para = extract_paratext(paras)
         text = extract_text(para)
         if not text:
