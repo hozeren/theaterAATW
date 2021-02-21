@@ -83,7 +83,7 @@ def main():
 #               print(tweet)
                 time.sleep(10800) 
             except StopIteration:
-                news_iterators[i] = globals()[news_funcs[i]]()
+                news_iterators[i] = globals()[news_funcs[i]]() # to check the links again.
 
 
 if __name__ == "__main__":  
