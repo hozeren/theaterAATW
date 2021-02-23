@@ -56,6 +56,7 @@ def scrape_guardian():
     tree = fromstring(r.content)
     links = tree.xpath('//div[@class="fc-item__container"]/a/@href') 
     
+    
 #we got the content/link above
 
     for link in links:
@@ -64,6 +65,7 @@ def scrape_guardian():
         paras = blog_tree.xpath('//p[@class="css-38z03z"]')
         para = extract_paratext(paras)
         text = extract_text(para)
+        
         if not text:
             continue
 
@@ -79,11 +81,12 @@ def main():
     while True:
         for i, iterator in enumerate(news_iterators):
             try:
+                
                 tweet = next(iterator)
                 api.update_status(status=tweet)
                 print(tweet)
-                time.sleep(10800) 
-            except StopIteration:
+                time.sleep(10800)
+            except (StopIteration, IndexError): #fix index error cf line 38
                 news_iterators[i] = globals()[news_funcs[i]]() # to check the links again.
 
 

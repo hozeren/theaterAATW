@@ -86,7 +86,7 @@ def main():
                 api.update_status(status=tweet)
 #                print(tweet)
                 time.sleep(10800) 
-            except StopIteration:
+            except (StopIteration, IndexError): #fix index error cf line 37
                 news_iterators[i] = globals()[news_funcs[i]]()
 
 
