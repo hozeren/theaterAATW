@@ -1,5 +1,6 @@
 
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import random
 import time
 
@@ -53,7 +54,7 @@ def scrape_guardian():
     url = 'https://www.theguardian.com/stage/theatre'
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
-    links = tree.xpath('//div[@class="fc-item__container"]/a/@href')
+    links = tree.xpath('//div[@class="fc-item__container"]/a/@href') 
     
 #we got the content/link above
 
@@ -66,7 +67,7 @@ def scrape_guardian():
         if not text:
             continue
 
-        yield '"%s" %s' % (text, link) #for the loop which may be stuck
+        yield '"%s" %s' % (text.encode('utf8') , link) #for the loop which may be stuck
 
 def main():
     """Encompasses the main loop of the bot."""
@@ -80,7 +81,7 @@ def main():
             try:
                 tweet = next(iterator)
                 api.update_status(status=tweet)
-#               print(tweet)
+                print(tweet)
                 time.sleep(10800) 
             except StopIteration:
                 news_iterators[i] = globals()[news_funcs[i]]() # to check the links again.

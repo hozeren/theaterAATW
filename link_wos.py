@@ -54,13 +54,13 @@ def scrape_wostage():
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
     links = tree.xpath('//div[@class="styled__CssContentListInfo-sc-2vb2mr-1 khmdNV"]/a/@href')
-
+    
 #we got the content/link above
 
     for link in links:
         r = requests.get('https://www.whatsonstage.com'+link, headers=HEADERS)
         blog_tree = fromstring(r.content)
-        paras = blog_tree.xpath('//div[@class="BodyContent-sc-1r3al1a-0 hqAMnu"]/p')
+        paras = blog_tree.xpath('//div[@class="BodyContent-sc-1r3al1a-0 styled__CssArticleBody-asi60b-13 eTxOCF"]//p')
         para = extract_paratext(paras)
         text = extract_text(para)
         if not text:
