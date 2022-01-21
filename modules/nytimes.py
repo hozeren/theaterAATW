@@ -1,52 +1,21 @@
-
 #!/usr/bin/env python
 import random
 import time
 
 from lxml.html import fromstring
-import nltk
-nltk.download('punkt')
-import requests
-import sys
+import nltk, sys, requests
+nltk.download('punkt') 
 from twython import Twython, TwythonError
-
-tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-
-# your twitter consumer and access information goes here
-# note: these are garbage strings and won't work
-
+import theatreAATW.lib.extract
 from auth import (
     apiKey,
     apiSecret,
     accessToken,
-    accessTokenSecret
+    accessTokenSecret,
+    HEADERS
 )
 
 api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
-
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5)'
-                  ' AppleWebKit/537.36 (KHTML, like Gecko) Cafari/537.36'
-    }
-
-def extract_paratext(paras):
-    """Extracts text from <p> elements and returns a clean, tokenized random
-    paragraph."""
-
-    paras = [para.text_content() for para in paras if para.text_content()]
-    para = random.choice(paras)
-    return tokenizer.tokenize(para)
-
-def extract_text(para):
-    """Returns a sufficiently-large random text from a tokenized paragraph,
-    if such text exists. Otherwise, returns None."""
-
-    for _ in range(10):
-        text = random.choice(para)
-        if text and 60 < len(text) < 210:
-            return text
-
-    return None
 
 def scrape_nytimes():
 
@@ -56,6 +25,7 @@ def scrape_nytimes():
     links1 = tree.xpath('//h2[@class="css-171kk9w e4e4i5l1"]/a/@href')
     links2 = tree.xpath('//div[@class="css-1l4spti"]/a/@href')
     links = links2+links1
+    print(links)
 
 #we got the content/link above
 
