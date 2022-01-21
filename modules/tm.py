@@ -16,36 +16,47 @@ from theaterAATW.auth import (
 )
 
 api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
+from selenium import webdriver
 
-def scrape_nytimes():
+# prepare the option for the chrome driver
+options = webdriver.ChromeOptions()
+options.add_argument('headless')
+browser = webdriver.Chrome(chrome_options=options)
 
-    url = 'https://www.nytimes.com/section/theater'
+def scrape_tm():
+
+    url = 'https://www.theatermania.com/news'
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
-    links1 = tree.xpath('//h2[@class="css-171kk9w e4e4i5l1"]/a/@href')
-    links2 = tree.xpath('//div[@class="css-1l4spti"]/a/@href')
-    links = links2+links1
+    links = tree.xpath('//div[@class="styled__CssContentListInfo-sc-2vb2mr-1 khmdNV"]//a/@href')
     #print(links)
-
 #we got the content/link above
 
     for link in links:
-        r = requests.get('https://www.nytimes.com'+link, headers=HEADERS)
-        blog_tree = fromstring(r.content)
-        paras = blog_tree.xpath('//div[@class="css-53u6y8"]/p')
+        r = requests.get('https://www.theatermania.com'+link, headers=HEADERS)
+        #print(r["content"])
+        #browser.get(url)
+        #blog_tree2 = browser.page_source
+        #blog_tree = html.fromstring(r.content)
+        #print html.tostring(blog_tree)
+        #print(blog_tree)
+        #paras = browser.find_element_by_xpath("//*[@id='content-container']/div[4]/main/article/div[4]//p/text()")
+        paras2 = blog_tree.xpath(u'//*[@id="content-container"]/div[4]/main/article/div[4]/p[2]/text()') #encode('utf8')
+        print(paras)
+        stop
         para = e.extract_paratext(paras)
         text = e.extract_text(para)
         if not text:
             continue
 
-        yield '"%s" %s' % (text, 'https://www.nytimes.com'+link) #for the loop which may be stuck
+        yield '"%s" %s %s' % (text.encode('utf-8'), "@theatermania", 'https://www.theatermania.com'+link) #for the loop which may be stuck
     
     '''put the url behind if href is not full'''
 
 def main():
     """Encompasses the main loop of the bot."""
-    print('-------New York Times Bot started.-------')
-    news_funcs = ['scrape_nytimes']
+    print('----Bot started.----')
+    news_funcs = ['scrape_tm']
     news_iterators = []  
     for func in news_funcs:
         news_iterators.append(globals()[func]())
@@ -56,7 +67,7 @@ def main():
                 api.update_status(status=tweet)
                 print(tweet)
                 time.sleep(10800) 
-            except (StopIteration, IndexError): #fix index error cf line 37
+            except StopIteration:
                 news_iterators[i] = globals()[news_funcs[i]]()
 
 
@@ -65,3 +76,5 @@ if __name__ == "__main__":
     paras = []
     e = Extract(para, paras)
     main()
+
+
