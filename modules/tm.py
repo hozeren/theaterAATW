@@ -16,12 +16,6 @@ from theaterAATW.auth import (
 )
 
 api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
-from selenium import webdriver
-
-# prepare the option for the chrome driver
-options = webdriver.ChromeOptions()
-options.add_argument('headless')
-browser = webdriver.Chrome(chrome_options=options)
 
 def scrape_tm():
 
@@ -29,7 +23,7 @@ def scrape_tm():
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
     links = tree.xpath('//div[@class="styled__CssContentListInfo-sc-2vb2mr-1 khmdNV"]//a/@href')
-    #print(links)
+    print(links)
 #we got the content/link above
 
     for link in links:
@@ -37,11 +31,11 @@ def scrape_tm():
         #print(r["content"])
         #browser.get(url)
         #blog_tree2 = browser.page_source
-        #blog_tree = html.fromstring(r.content)
+        blog_tree = fromstring(r.content)
         #print html.tostring(blog_tree)
         #print(blog_tree)
         #paras = browser.find_element_by_xpath("//*[@id='content-container']/div[4]/main/article/div[4]//p/text()")
-        paras2 = blog_tree.xpath(u'//*[@id="content-container"]/div[4]/main/article/div[4]/p[2]/text()') #encode('utf8')
+        paras = blog_tree.xpath(u'//*[@id="content-container"]/div[4]/main/article/div[4]//p') #encode('utf8')
         print(paras)
         stop
         para = e.extract_paratext(paras)

@@ -20,7 +20,7 @@ api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
 def scrape_wostage():
 
     url = 'https://www.whatsonstage.com/news?categories=theatre-news'
-    r = requests.get(url, headers=HEADERS)
+    r = requests.get(url, headers=HEADERS).json()
     tree = fromstring(r.content)
     links = tree.xpath('//div[@class="styled__CssContentListInfo-sc-2vb2mr-1 khmdNV"]/a/@href')
     
@@ -29,7 +29,7 @@ def scrape_wostage():
     for link in links:
         r = requests.get('https://www.whatsonstage.com'+link, headers=HEADERS)
         blog_tree = fromstring(r.content)
-        paras = blog_tree.xpath('//div[@class="BodyContent-sc-1r3al1a-0 styled__CssArticleBody-asi60b-13 eTxOCF"]//p')
+        paras = blog_tree.xpath('//h1[@itemprop="name"]//p')
         para = e.extract_paratext(paras)
         text = e.extract_text(para)
         if not text:

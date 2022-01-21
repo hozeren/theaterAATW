@@ -8,9 +8,10 @@ nltk.download('punkt')
 import requests
 import sys
 
-tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-class extract:
+
+class Extract:
+    
     def __init__(self,para,paras):
         self.para = para
         self.paras =paras
@@ -21,7 +22,7 @@ class extract:
 
         paras = [para.text_content() for para in paras if para.text_content()]
         para = random.choice(paras)
-        return tokenizer.tokenize(para)
+        return nltk.data.load('tokenizers/punkt/english.pickle').tokenize(para)
 
     def extract_text(self, para):
         """Returns a sufficiently-large random text from a tokenized paragraph,
