@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-
 import random
 import time
 
@@ -30,11 +29,11 @@ def scrape_nytimes():
     links = links2+links1
     print(links)
 
-#we got the content/link above
+    #we got the content/link above
 
     for link in links:
-        r = requests.get('https://www.nytimes.com'+link, headers=HEADERS)
-        blog_tree = fromstring(r.content)
+        r2 = requests.get('https://www.nytimes.com'+link, headers=HEADERS)
+        blog_tree = fromstring(r2.content)
         paras = blog_tree.xpath('//div[@class="css-53u6y8"]/p')
         para = e.extract_paratext(paras)
         text = e.extract_text(para)

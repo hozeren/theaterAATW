@@ -8,7 +8,7 @@ nltk.download('punkt')
 
 from theaterAATW.src.extract import Extract
 from theaterAATW.modules.nytimes import scrape_nytimes
-from theaterAATW.modules.wos import scrape_wostage
+from theaterAATW.modules.wostage import scrape_wostage
 from twython import Twython, TwythonError
 from theaterAATW.auth import (
     apiKey,
@@ -20,10 +20,11 @@ from theaterAATW.auth import (
 
 api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
 
+
 def main():
     """Encompasses the main loop of the bot."""
-    print('-------New York Times Bot started.-------')
-    news_funcs = ['scrape_nytimes', 'scrape_wostage']
+    print('-------Bot started.-------')
+    news_funcs = ['scrape_wostage']
     news_iterators = []  
     for func in news_funcs:
         news_iterators.append(globals()[func]())
@@ -38,6 +39,4 @@ def main():
                 news_iterators[i] = globals()[news_funcs[i]]()
 
 if __name__ == "__main__":  
-    scrape_nytimes()
-    scrape_wostage()
     main()

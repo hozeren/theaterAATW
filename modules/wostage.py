@@ -22,23 +22,24 @@ def scrape_wostage():
     paras = []
     e = Extract(para, paras)
     url = 'https://www.whatsonstage.com/news?categories=theatre-news'
-    r = requests.get(url, headers=HEADERS).json()
+    r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
-    links = tree.xpath('//div[@class="styled__CssContentListInfo-sc-2vb2mr-1 khmdNV"]/a/@href')
+    links = tree.xpath(u'//div[@class="styled__CssContentListInfo-sc-2vb2mr-1 khmdNV"]/a/@href')
+    print(links)
     
-#we got the content/link above
+    #we got the content/link above
 
     for link in links:
-        r = requests.get('https://www.whatsonstage.com'+link, headers=HEADERS)
-        blog_tree = fromstring(r.content)
-        paras = blog_tree.xpath('//h1[@itemprop="name"]//p')
+        print('https://www.whatsonstage.com'+link)
+        r2 = requests.get('https://www.whatsonstage.com'+link, headers=HEADERS)
+        blog_tree = fromstring(r2.content)
+        paras = blog_tree.xpath('//div[@itemprop="articleBody"]//p')
         para = e.extract_paratext(paras)
         text = e.extract_text(para)
         if not text:
             continue
 
         yield '"%s" %s' % (text, 'https://www.whatsonstage.com'+link) #for the loop which may be stuck
+    return link
     
     '''put the url behind if href is not full'''
-
-
