@@ -31,12 +31,12 @@ __email__ = "denizozeren614@gmail.com"
 
 def main():
     parser = argparse.ArgumentParser("theateraatw")
-    parser.add_argument("nytimes", help="Start scraping and sending tweets from New York Times.")
-    parser.add_argument("wostage", help="Start scraping and sending tweets from Wostage.")
+    parser.add_argument("nytimes", nargs='?', help="Start scraping and sending tweets from New York Times.")
+    parser.add_argument("wostage", nargs='?', help="Start scraping and sending tweets from Wostage.")
     args = parser.parse_args()
     
     if len(sys.argv) == 1: 
-        print(args.counter + 1)
+        print("You should put the arguments: nytimes or wostage")
         return
 
     elif sys.argv[1] == "-h":
