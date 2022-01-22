@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import pytest
 from theaterAATW.modules.nytimes import scrape_nytimes
+from theaterAATW.modules.wostage import scrape_wostage
 
 def test_scrape_nytimes():
     nytimes_text = scrape_nytimes()

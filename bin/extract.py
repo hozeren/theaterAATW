@@ -4,7 +4,7 @@ import time
 
 from lxml.html import fromstring
 import nltk
-nltk.download('punkt')
+nltk.download('punkt', quiet=True)
 import requests
 import sys
 

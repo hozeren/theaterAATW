@@ -4,7 +4,7 @@ import time
 
 from lxml.html import fromstring
 import nltk, sys, requests
-nltk.download('punkt') 
+nltk.download('punkt', quiet=True) 
 from twython import Twython, TwythonError
 from theaterAATW.bin.extract import Extract
 from theaterAATW.auth import (
@@ -16,6 +16,14 @@ from theaterAATW.auth import (
 )
 
 api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
+
+# Autorship information
+__author__ = "Hüsamettin Deniz Özeren"
+__copyright__ = "Copyright 2021"
+__credits__ = ["Hüsamettin Deniz Özeren"]
+__license__ = "GNU General Public License v3.0"
+__maintainer__ = "Hüsamettin Deniz Özeren"
+__email__ = "denizozeren614@gmail.com"
 
 def scrape_nytimes():
     para = []

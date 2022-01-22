@@ -4,9 +4,9 @@ import random
 import time
 from lxml.html import fromstring
 import nltk, sys, requests
-nltk.download('punkt') 
+import argparse
 
-from theaterAATW.src.extract import Extract
+from theaterAATW.bin.extract import Extract
 from theaterAATW.modules.nytimes import scrape_nytimes
 from theaterAATW.modules.wostage import scrape_wostage
 from twython import Twython, TwythonError
@@ -20,11 +20,39 @@ from theaterAATW.auth import (
 
 api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
 
+# Autorship information
+__author__ = "Hüsamettin Deniz Özeren"
+__copyright__ = "Copyright 2021"
+__credits__ = ["Hüsamettin Deniz Özeren"]
+__license__ = "GNU General Public License v3.0"
+__maintainer__ = "Hüsamettin Deniz Özeren"
+__email__ = "denizozeren614@gmail.com"
+
 
 def main():
+    parser = argparse.ArgumentParser("theateraatw")
+    parser.add_argument("nytimes", help="Start scraping and sending tweets from New York Times.")
+    parser.add_argument("wostage", help="Start scraping and sending tweets from Wostage.")
+    args = parser.parse_args()
+    
+    if len(sys.argv) == 1: 
+        print(args.counter + 1)
+        return
+
+    elif sys.argv[1] == "-h":
+        print(args.counter + 1)
+        return
+
+    elif sys.argv[1] == 'nytimes':
+        news_funcs = ['scrape_nytimes']
+        print('-------New York Times Bot started.-------')
+    
+    elif sys.argv[1] == 'wostage':
+        news_funcs = ['scrape_wostage']
+        print('-------Wostage Bot started.-------')
+
     """Encompasses the main loop of the bot."""
-    print('-------Bot started.-------')
-    news_funcs = ['scrape_wostage']
+    nltk.download('punkt') 
     news_iterators = []  
     for func in news_funcs:
         news_iterators.append(globals()[func]())
