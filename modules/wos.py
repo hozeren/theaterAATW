@@ -18,7 +18,9 @@ from theaterAATW.auth import (
 api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
 
 def scrape_wostage():
-
+    para = []
+    paras = []
+    e = Extract(para, paras)
     url = 'https://www.whatsonstage.com/news?categories=theatre-news'
     r = requests.get(url, headers=HEADERS).json()
     tree = fromstring(r.content)
@@ -39,27 +41,4 @@ def scrape_wostage():
     
     '''put the url behind if href is not full'''
 
-def main():
-    """Encompasses the main loop of the bot."""
-    print('----Bot started.----')
-    news_funcs = ['scrape_wostage']
-    news_iterators = []  
-    for func in news_funcs:
-        news_iterators.append(globals()[func]())
-    while True:
-        for i, iterator in enumerate(news_iterators):
-            try:
-                tweet = next(iterator)
-                api.update_status(status=tweet)
-                print(tweet)
-                time.sleep(10800) 
-            except (StopIteration, IndexError): #fix index error cf line 37
-                news_iterators[i] = globals()[news_funcs[i]]()
-
-
-if __name__ == "__main__":  
-    para = []
-    paras = []
-    e = Extract(para, paras)
-    main()
 

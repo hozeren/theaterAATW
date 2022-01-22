@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 import random
 import time
 
@@ -18,14 +19,16 @@ from theaterAATW.auth import (
 api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
 
 def scrape_nytimes():
-
+    para = []
+    paras = []
+    e = Extract(para, paras)
     url = 'https://www.nytimes.com/section/theater'
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
     links1 = tree.xpath('//h2[@class="css-171kk9w e4e4i5l1"]/a/@href')
     links2 = tree.xpath('//div[@class="css-1l4spti"]/a/@href')
     links = links2+links1
-    #print(links)
+    print(links)
 
 #we got the content/link above
 
@@ -42,26 +45,7 @@ def scrape_nytimes():
     
     '''put the url behind if href is not full'''
 
-def main():
-    """Encompasses the main loop of the bot."""
-    print('-------New York Times Bot started.-------')
-    news_funcs = ['scrape_nytimes']
-    news_iterators = []  
-    for func in news_funcs:
-        news_iterators.append(globals()[func]())
-    while True:
-        for i, iterator in enumerate(news_iterators):
-            try:
-                tweet = next(iterator)
-                api.update_status(status=tweet)
-                print(tweet)
-                time.sleep(10800) 
-            except (StopIteration, IndexError): #fix index error cf line 37
-                news_iterators[i] = globals()[news_funcs[i]]()
 
 
-if __name__ == "__main__":  
-    para = []
-    paras = []
-    e = Extract(para, paras)
-    main()
+
+
