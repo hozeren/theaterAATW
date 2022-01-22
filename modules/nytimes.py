@@ -6,7 +6,7 @@ from lxml.html import fromstring
 import nltk, sys, requests
 nltk.download('punkt') 
 from twython import Twython, TwythonError
-from theaterAATW.src.extract import Extract
+from theaterAATW.bin.extract import Extract
 from theaterAATW.auth import (
     apiKey,
     apiSecret,
@@ -27,7 +27,7 @@ def scrape_nytimes():
     links1 = tree.xpath('//h2[@class="css-171kk9w e4e4i5l1"]/a/@href')
     links2 = tree.xpath('//div[@class="css-1l4spti"]/a/@href')
     links = links2+links1
-    print(links)
+    #print(links)
 
     #we got the content/link above
 
@@ -40,11 +40,10 @@ def scrape_nytimes():
         if not text:
             continue
 
-        yield '"%s" %s' % (text, 'https://www.nytimes.com'+link) #for the loop which may be stuck
+        yield '"%s" %s' % (text, 'https://www.nytimes.com'+link) #this makes the return an object, use "for" loop to see.
     
     '''put the url behind if href is not full'''
 
-
-
+    return para
 
 
