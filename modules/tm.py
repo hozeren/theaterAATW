@@ -45,7 +45,7 @@ def scrape_tm():
         #paras = browser.find_element_by_xpath("//*[@id='content-container']/div[4]/main/article/div[4]//p/text()")
         paras = blog_tree.xpath(u'//*[@id="content-container"]/div[4]/main/article/div[4]//p') #encode('utf8')
         print(paras)
-        stop
+        #stop
         para = e.extract_paratext(paras)
         text = e.extract_text(para)
         if not text:
