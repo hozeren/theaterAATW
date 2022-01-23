@@ -52,6 +52,3 @@ def scrape_nytimes():
     
     '''put the url behind if href is not full'''
 
-    return para
-
-

@@ -30,7 +30,7 @@ class Extract:
 
         for _ in range(10):
             text = random.choice(para)
-            if text and 60 < len(text) < 210:
+            if text and 60 < len(text) < 180:
                 return text
 
         return text
