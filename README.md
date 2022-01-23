@@ -1,15 +1,36 @@
-theaterAATW
+Theater All Around the World
 ========
 
-A twitter bot that posts scrapped text and link (news) from specified theater websites on Twitter without intervention of a human operator. 
-The main difference between this bot and others is that data posted is purely fetched from specified websites but not yet autotomized. 
+A Twitter bot that posts scrapped text and links from specified theater websites on Twitter without the intervention of a human operator.
 
-The functions in this bot are;
+<p align="center">
+<img src="theaterAATW_logo.png"  alt="TheaterAATW" width="40%">
+</p>
+<p align="center">
 
--Status Update/Post
+## Installation
+  Before installation, `auth.py` should be filled and/or created with the Twitter API key and secret in the main folder. You can apply to Twitter developer account below:
+  https://developer.twitter.com/
+  
+  ```bash
+  # Clone the repositories
+  git clone https://github.com/hozeren/theaterAATW.git
+  
+  # Go to the clone folder
+  python setup.py install
+  
+  # or install with pip in the folder
+  pip install .
+  ```
+## Usage
+  There are two website functions now including Click [New York Times](https://www.nytimes.com/section/theater) and Click [Whatsonstage](https://www.whatsonstage.com/news/?categories=theatre-news). To use the functions after installation;
+  ```bash
+  usage: theateraatw [-h] [nytimes] [wostage]
 
--Retweet
+  positional arguments:
+    nytimes     Start scraping and sending tweets from New York Times.
+    wostage     Start scraping and sending tweets from Wostage.
 
-
-
-Twitter API is used to reach the functions.
+  optional arguments:
+    -h, --help  show this help message and exit
+  ```
