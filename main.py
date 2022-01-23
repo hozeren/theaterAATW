@@ -39,9 +39,9 @@ def main():
         print("You should put the arguments: nytimes or wostage")
         return
 
-    elif sys.argv[1] == "-h":
-        print(args.counter + 1)
-        return
+    #elif sys.argv[1] == "-h":
+    #    print(args.counter + 1)
+    #    return
 
     elif sys.argv[1] == 'nytimes':
         news_funcs = ['scrape_nytimes']

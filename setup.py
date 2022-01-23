@@ -23,7 +23,7 @@ setup(
         'pandas',
         'nltk'
     ],
-    packages=find_packages(include=['teaterAATW', 'theaterAATW.*']),
+    packages=find_packages(include=['theaterAATW', 'theaterAATW.*']),
     python_requires=">=3.6",
     entry_points={
         'console_scripts': [
