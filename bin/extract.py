@@ -28,7 +28,7 @@ class Extract:
         """Returns a sufficiently-large random text from a tokenized paragraph,
         if such text exists. Otherwise, returns None."""
 
-        for _ in range(10):
+        for _ in range(10): #choosing 10 text from the article
             text = random.choice(para)
             if text and 60 < len(text) < 180:
                 return text
