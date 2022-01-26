@@ -9,6 +9,8 @@ import argparse
 from theaterAATW.bin.extract import Extract
 from theaterAATW.modules.nytimes import scrape_nytimes
 from theaterAATW.modules.wostage import scrape_wostage
+from theaterAATW.modules.tmania import scrape_tmania
+from theaterAATW.modules.ttimes import scrape_ttimes
 from twython import Twython, TwythonError
 from theaterAATW.auth import (
     apiKey,
@@ -32,11 +34,13 @@ __email__ = "denizozeren614@gmail.com"
 def main():
     parser = argparse.ArgumentParser("theateraatw")
     parser.add_argument("nytimes", nargs='?', help="Start scraping and sending tweets from New York Times.")
-    parser.add_argument("wostage", nargs='?', help="Start scraping and sending tweets from Wostage.")
+    parser.add_argument("wostage", nargs='?', help="Start scraping and sending tweets from WhatsOnStage.")
+    parser.add_argument("tmania", nargs='?', help="Start scraping and sending tweets from TheaterMania.")
+    parser.add_argument("ttimes", nargs='?', help="Start scraping and sending tweets from The Theatre Times.")
     args = parser.parse_args()
     
     if len(sys.argv) == 1: 
-        print("You should put the arguments: nytimes or wostage")
+        print("You should put the arguments: nytimes or wostage or tmania or ttimes")
         return
 
     #elif sys.argv[1] == "-h":
@@ -51,6 +55,18 @@ def main():
         news_funcs = ['scrape_wostage']
         print('-------Wostage Bot started.-------')
 
+    elif sys.argv[1] == 'tmania':
+        news_funcs = ['scrape_tmania']
+        print('-------The TheaterMania Bot started.-------')
+
+    elif sys.argv[1] == 'ttimes':
+        news_funcs = ['scrape_ttimes']
+        print('-------The Theatre TImes Bot started.-------')
+    
+    else: 
+        parser.print_help()
+        return
+
     """Encompasses the main loop of the bot."""
     nltk.download('punkt') 
     news_iterators = []  
@@ -63,7 +79,7 @@ def main():
                 api.update_status(status=tweet)
                 print(tweet)
                 time.sleep(10800) 
-            except (StopIteration, IndexError): #fix index error cf line 37
+            except (StopIteration, IndexError, TwythonError): #fix index error cf line 37
                 news_iterators[i] = globals()[news_funcs[i]]()
 
 if __name__ == "__main__":  

@@ -5,10 +5,15 @@ import time
 from lxml.html import fromstring
 import nltk
 nltk.download('punkt', quiet=True)
-import requests
-import sys
+import sys, requests
 
-
+# Autorship information
+__author__ = "Hüsamettin Deniz Özeren"
+__copyright__ = "Copyright 2021"
+__credits__ = ["Hüsamettin Deniz Özeren"]
+__license__ = "GNU General Public License v3.0"
+__maintainer__ = "Hüsamettin Deniz Özeren"
+__email__ = "denizozeren614@gmail.com"
 
 class Extract:
     
