@@ -47,7 +47,7 @@ def scrape_wostage():
         if not text:
             continue
 
-        yield '"%s" %s' % (text, 'https://www.whatsonstage.com'+link) #for the loop which may be stuck
+        yield '"%s" %s %s' % (text, "@WhatsOnStage", 'https://www.whatsonstage.com'+link) #for the loop which may be stuck
     return link
     
     '''put the url behind if href is not full'''

@@ -48,7 +48,7 @@ def scrape_nytimes():
         if not text:
             continue
 
-        yield '"%s" %s' % (text, 'https://www.nytimes.com'+link) #this makes the return an object, use "for" loop to see.
+        yield '"%s" %s %s' % (text, "@nytimestheater", 'https://www.nytimes.com'+link) #this makes the return an object, use "for" loop to see.
     
     '''put the url behind if href is not full'''
 
