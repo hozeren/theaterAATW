@@ -12,7 +12,10 @@ import sys, requests
 class Favorite():
 
 
-    def search(keywords)
+    def search_twitter(keywords):
         results = twitter.cursor(twitter.search, q=keywords)
         for result in results:
         print(result['id_str'])
+        return results
+
+    def 
