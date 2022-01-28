@@ -9,11 +9,13 @@ from twython import Twython, TwythonError
 import sys, requests
 
 
+api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
+
 class Favorite():
 
 
     def search_twitter(keywords):
-        results = twitter.cursor(twitter.search, q=keywords)
+        results = api.cursor(twitter.search, q=keywords)
         for result in results:
             print(result['id_str'])
             return results
