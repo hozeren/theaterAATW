@@ -17,5 +17,3 @@ class Favorite():
         for result in results:
             print(result['id_str'])
             return results
-
-    def 
