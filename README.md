@@ -39,9 +39,6 @@ optional arguments:
 ## Tweet on Twitter
   
 <p align="center">
-<img src="example-tweet.png"  alt="TheaterAATW" width="60%">
+<a href="https://twitter.com/TheaterAATW/status/1488766001269420034"><img src="example-tweet.png"  alt="TheaterAATW" width="50%">
 </p>
 <p align="center">
-  
-## Latest Tweets
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=TheaterAATW&layout=wide)](https://github.com/gazf/github-readme-twitter)
