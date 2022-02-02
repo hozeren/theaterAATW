@@ -42,3 +42,8 @@ optional arguments:
 <a href="https://twitter.com/TheaterAATW/status/1488766001269420034"><img src="example-tweet.png"  alt="TheaterAATW" width="50%">
 </p>
 <p align="center">
+
+### 📱 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
