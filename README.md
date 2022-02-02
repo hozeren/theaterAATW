@@ -46,4 +46,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@TheaterAATW: &quot;This article was posted by Aleks Sierz on January 14, 2022, and has been reposted with permission.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1488856614992031745)
+- [@TheaterAATW: &quot;The musical director is Jennifer Deacon and UK musical supervisor is Katy Richardson.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1488856592346931205)
+- [@TheaterAATW: &quot;It also features Jonathan Nieves as Richie, Jason Schmidt as Buddy, Maxwell Whittington-Cooper as Wally, and Jackie Hoffman as Assistant Principal McGee.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1488856503499042817)
+- [@TheaterAATW: &quot;Rivera, who turned 89 this month, has done career retrospectives before, including “The Dancer’s Life,” a musical celebrating her career.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1488856251933020161)
+- [@TheaterAATW: &quot;This is an argument about the past and progress, and it reflects some of the real-life attitudes that continue to affect the popularity of tap, especially among Black people, and the potential pool of tap dance kids.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1488817189251596289)
 <!-- TWITTER:END -->
