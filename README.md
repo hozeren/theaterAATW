@@ -36,3 +36,12 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
   ```
+## Tweet on Twitter
+  
+<p align="center">
+<img src="example-tweet.png"  alt="TheaterAATW" width="60%">
+</p>
+<p align="center">
+  
+## Latest Tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=TheaterAATW&layout=wide)](https://github.com/gazf/github-readme-twitter)
