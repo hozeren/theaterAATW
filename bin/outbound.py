@@ -19,13 +19,14 @@ keywords = ['theater']
 api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
 
 class Favorite():
+    def __init__(self, keywords):
+        self.keywords = keywords
 
-
-    def search_twitter(keywords):
-        results = api.cursor(api.search, q=keywords)
+    def search_twitter(self):
+        results = api.cursor(api.search, q=self.keywords)
         for result in results:
             print(result['id_str'])
             return results
 
-Favorite()
-print (Favorite.search_twitter(keywords))
+a = Favorite(keywords)
+print (a.search_twitter())

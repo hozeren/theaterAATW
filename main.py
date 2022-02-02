@@ -31,6 +31,7 @@ __maintainer__ = "Hüsamettin Deniz Özeren"
 __email__ = "denizozeren614@gmail.com"
 
 
+
 def main():
     parser = argparse.ArgumentParser("theateraatw")
     parser.add_argument("nytimes", nargs='?', help="Start scraping and sending tweets from New York Times.")
@@ -66,7 +67,9 @@ def main():
     else: 
         parser.print_help()
         return
+    return news_funcs
 
+def share_twitter(news_funcs):
     """Encompasses the main loop of the bot."""
     nltk.download('punkt') 
     news_iterators = []  
@@ -82,5 +85,7 @@ def main():
             except (StopIteration, IndexError, TwythonError): #fix index error cf line 37
                 news_iterators[i] = globals()[news_funcs[i]]()
 
-if __name__ == "__main__":  
-    main()
+
+if __name__ == "__main__":
+    news_funcs = main()
+    share_twitter(news_funcs)

@@ -32,7 +32,7 @@ def scrape_ttimes():
     url = 'https://thetheatretimes.com/latest-posts/'
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
-    links = tree.xpath('//div[@class="post-content"]//@href')
+    links = tree.xpath('//div[@class="post-content"]/h3//@href')
     #print(links)
 #we got the content/link above
 
@@ -48,5 +48,3 @@ def scrape_ttimes():
         yield '"%s" %s %s' % (text, "@TheTheatreTimes", link) #for the loop which may be stuck
     
     '''put the url behind if href is not full'''
-
-
