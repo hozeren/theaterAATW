@@ -46,9 +46,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;This article was posted by Aleks Sierz on January 14, 2022, and has been reposted with permission.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1488856614992031745)
-- [@TheaterAATW: &quot;The musical director is Jennifer Deacon and UK musical supervisor is Katy Richardson.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1488856592346931205)
-- [@TheaterAATW: &quot;It also features Jonathan Nieves as Richie, Jason Schmidt as Buddy, Maxwell Whittington-Cooper as Wally, and Jackie Hoffman as Assistant Principal McGee.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1488856503499042817)
-- [@TheaterAATW: &quot;Rivera, who turned 89 this month, has done career retrospectives before, including “The Dancer’s Life,” a musical celebrating her career.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1488856251933020161)
-- [@TheaterAATW: &quot;This is an argument about the past and progress, and it reflects some of the real-life attitudes that continue to affect the popularity of tap, especially among Black people, and the potential pool of tap dance kids.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1488817189251596289)
+- [@TheaterAATW: &quot;Technological issues can make for some frustrations with virtual instrumental music instruction.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1488992532252053506)
+- [@TheaterAATW: &quot;They will be joined by a featured ensemble made up of Kyle Birch &lpar;he/him&rpar;, Joe Churms &lpar;he/him&rpar;, Sebastian Harwood &lpar;he/him&rpar;, Samara Rawlins &lpar;she/her&rpar;, Hannah Willars &lpar;she/her&rpar; and Ella Williams &lpar;she/her&rpar;&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1488992515462246402)
+- [@TheaterAATW: &quot;The Riverdance 25th Anniversary Show is stepping out on the road with a North American tour, starting at Salt Lake City&#39;s Eccles Theater March 4-6.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1488992415864299529)
+- [@TheaterAATW: &quot;And Khoshnoudi, with her dreamy glances and devilish grin, could have her own play, her own TV series, in fact, as the delightfully peculiar Gunch.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1488992159286145026)
+- [@TheaterAATW: &quot;Amateurs by David Roldán Oru at Sala Mirador is another one based on how the author felt when he broke up with his partner.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1488947219675947011)
 <!-- TWITTER:END -->
