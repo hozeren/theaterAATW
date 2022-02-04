@@ -46,9 +46,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;Technological issues can make for some frustrations with virtual instrumental music instruction.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1488992532252053506)
-- [@TheaterAATW: &quot;They will be joined by a featured ensemble made up of Kyle Birch &lpar;he/him&rpar;, Joe Churms &lpar;he/him&rpar;, Sebastian Harwood &lpar;he/him&rpar;, Samara Rawlins &lpar;she/her&rpar;, Hannah Willars &lpar;she/her&rpar; and Ella Williams &lpar;she/her&rpar;&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1488992515462246402)
-- [@TheaterAATW: &quot;The Riverdance 25th Anniversary Show is stepping out on the road with a North American tour, starting at Salt Lake City&#39;s Eccles Theater March 4-6.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1488992415864299529)
-- [@TheaterAATW: &quot;And Khoshnoudi, with her dreamy glances and devilish grin, could have her own play, her own TV series, in fact, as the delightfully peculiar Gunch.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1488992159286145026)
-- [@TheaterAATW: &quot;Amateurs by David Roldán Oru at Sala Mirador is another one based on how the author felt when he broke up with his partner.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1488947219675947011)
+- [@TheaterAATW: &quot;The success of this approach prompted Scottish students taking part to ask themselves what objects and locations from their own culture could be used in their adaptations of Shakespeare’s Pericles.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489355129304268800)
+- [@TheaterAATW: &quot;As the Arts Council has flagged in recent reports, local government is the largest investor in the arts and culture sector in England.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1489354996063875075)
+- [@TheaterAATW: &quot;Lighting by Martha Godfrey and sound design by Christ Whybrow.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1489354848839643136)
+- [@TheaterAATW: &quot;Collegiality, scorn, fear, affection — and a shared history saved for a late reveal — all come into it.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1489354578600603655)
+- [@TheaterAATW: &quot;“The Nutcracker,” performed at the Cairo Opera House’s main hall, by the Cairo Opera Ballet Company.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489309826698076169)
 <!-- TWITTER:END -->
