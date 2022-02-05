@@ -46,9 +46,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;The success of this approach prompted Scottish students taking part to ask themselves what objects and locations from their own culture could be used in their adaptations of Shakespeare’s Pericles.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489355129304268800)
-- [@TheaterAATW: &quot;As the Arts Council has flagged in recent reports, local government is the largest investor in the arts and culture sector in England.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1489354996063875075)
-- [@TheaterAATW: &quot;Lighting by Martha Godfrey and sound design by Christ Whybrow.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1489354848839643136)
-- [@TheaterAATW: &quot;Collegiality, scorn, fear, affection — and a shared history saved for a late reveal — all come into it.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1489354578600603655)
-- [@TheaterAATW: &quot;“The Nutcracker,” performed at the Cairo Opera House’s main hall, by the Cairo Opera Ballet Company.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489309826698076169)
+- [@TheaterAATW: &quot;The 4th Country is at Park Theatre until 5 February.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489717644320202758)
+- [@TheaterAATW: &quot;The nominees have been announced for this year&#39;s BAFTAs.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1489717487956635650)
+- [@TheaterAATW: &quot;According to our review, &quot;If you go in expecting a spectacle, you will not be disappointed.&quot;&quot; @theatermania](https://twitter.com/TheaterAATW/status/1489717301976969219)
+- [@TheaterAATW: &quot;“The Obies respond to the season, and to the evolving nature and rhythms of theater.”&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1489716998481354754)
+- [@TheaterAATW: &quot;Focusing on the local setting and culture makes the works more relatable to the actors and more engaging to global audiences by illuminating new layers of meaning and introducing new ways of interpreting Shakespeare.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489672342242578436)
 <!-- TWITTER:END -->
