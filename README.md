@@ -46,9 +46,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;This article was posted by Aleks Sierz on January 14, 2022, and has been reposted with permission.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1488856614992031745)
-- [@TheaterAATW: &quot;The musical director is Jennifer Deacon and UK musical supervisor is Katy Richardson.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1488856592346931205)
-- [@TheaterAATW: &quot;It also features Jonathan Nieves as Richie, Jason Schmidt as Buddy, Maxwell Whittington-Cooper as Wally, and Jackie Hoffman as Assistant Principal McGee.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1488856503499042817)
-- [@TheaterAATW: &quot;Rivera, who turned 89 this month, has done career retrospectives before, including “The Dancer’s Life,” a musical celebrating her career.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1488856251933020161)
-- [@TheaterAATW: &quot;This is an argument about the past and progress, and it reflects some of the real-life attitudes that continue to affect the popularity of tap, especially among Black people, and the potential pool of tap dance kids.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1488817189251596289)
+- [@TheaterAATW: &quot;In Smith’s performance we could yet detect the effect of witnessing, a residue of her own participation in the events even if only as a recorder and performer.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489944167484641288)
+- [@TheaterAATW: &quot;The nominees have been announced for this year&#39;s BAFTAs.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1489944026396737538)
+- [@TheaterAATW: &quot;Taking on the central role of Celie &lpar;once again&rpar; will be Fantasia Barrino, who assumed the role from 2007 to 2008 in the show&#39;s Broadway premiere and reprised it in 2010 during the US national tour.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1489943854274994180)
+- [@TheaterAATW: &quot;Hop on these chances, if you can.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1489943509964664834)
+- [@TheaterAATW: &quot;In the 1994 episode “Emergence“, android Lieutenant Commander Data is performing the role of exiled magician Prospero from The Tempest on the holodeck.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489898865578983428)
 <!-- TWITTER:END -->
