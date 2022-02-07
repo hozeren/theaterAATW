@@ -6,6 +6,7 @@ from lxml.html import fromstring
 import nltk, sys, requests
 nltk.download('punkt', quiet=True)
 from twython import Twython, TwythonError
+from theaterAATW.bin.extract import Extract
 import sys, requests
 from theaterAATW.auth import (
     apiKey,
@@ -15,12 +16,13 @@ from theaterAATW.auth import (
     HEADERS
 )
 
-keywords = ['theater']
+#keywords = ['theater']
 api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
 
-class Favorite():
+class Outbound():
     def __init__(self, keywords):
         self.keywords = keywords
+
 
     def search_twitter(self):
         results = api.cursor(api.search, q=self.keywords)
@@ -28,5 +30,5 @@ class Favorite():
             print(result['id_str'])
             return results
 
-a = Favorite(keywords)
-print (a.search_twitter())
+#a = Favorite(keywords)
+#print (a.search_twitter())

@@ -30,7 +30,21 @@ __license__ = "GNU General Public License v3.0"
 __maintainer__ = "Hüsamettin Deniz Özeren"
 __email__ = "denizozeren614@gmail.com"
 
-
+def share_twitter(news_funcs):
+    """Encompasses the main loop of the bot."""
+    nltk.download('punkt') 
+    news_iterators = []  
+    for func in news_funcs:
+        news_iterators.append(globals()[func]())
+    while True:
+        for i, iterator in enumerate(news_iterators):
+            try:
+                tweet = next(iterator)
+                api.update_status(status=tweet)
+                print(tweet)
+                time.sleep(10800) 
+            except (StopIteration, IndexError, TwythonError): #fix index error cf line 37
+                news_iterators[i] = globals()[news_funcs[i]]()
 
 def main():
     parser = argparse.ArgumentParser("theateraatw")
@@ -62,30 +76,14 @@ def main():
 
     elif sys.argv[1] == 'ttimes':
         news_funcs = ['scrape_ttimes']
-        print('-------The Theatre TImes Bot started.-------')
+        print('-------The Theatre Times Bot started.-------')
     
     else: 
         parser.print_help()
         return
-    return news_funcs
 
-def share_twitter(news_funcs):
-    """Encompasses the main loop of the bot."""
-    nltk.download('punkt') 
-    news_iterators = []  
-    for func in news_funcs:
-        news_iterators.append(globals()[func]())
-    while True:
-        for i, iterator in enumerate(news_iterators):
-            try:
-                tweet = next(iterator)
-                api.update_status(status=tweet)
-                print(tweet)
-                time.sleep(10800) 
-            except (StopIteration, IndexError, TwythonError): #fix index error cf line 37
-                news_iterators[i] = globals()[news_funcs[i]]()
+    share_twitter(news_funcs)
 
 
 if __name__ == "__main__":
-    news_funcs = main()
-    share_twitter(news_funcs)
+    main()
