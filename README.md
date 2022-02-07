@@ -46,9 +46,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;The 4th Country is at Park Theatre until 5 February.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489717644320202758)
-- [@TheaterAATW: &quot;The nominees have been announced for this year&#39;s BAFTAs.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1489717487956635650)
-- [@TheaterAATW: &quot;According to our review, &quot;If you go in expecting a spectacle, you will not be disappointed.&quot;&quot; @theatermania](https://twitter.com/TheaterAATW/status/1489717301976969219)
-- [@TheaterAATW: &quot;“The Obies respond to the season, and to the evolving nature and rhythms of theater.”&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1489716998481354754)
-- [@TheaterAATW: &quot;Focusing on the local setting and culture makes the works more relatable to the actors and more engaging to global audiences by illuminating new layers of meaning and introducing new ways of interpreting Shakespeare.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489672342242578436)
+- [@TheaterAATW: &quot;In Smith’s performance we could yet detect the effect of witnessing, a residue of her own participation in the events even if only as a recorder and performer.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489944167484641288)
+- [@TheaterAATW: &quot;The nominees have been announced for this year&#39;s BAFTAs.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1489944026396737538)
+- [@TheaterAATW: &quot;Taking on the central role of Celie &lpar;once again&rpar; will be Fantasia Barrino, who assumed the role from 2007 to 2008 in the show&#39;s Broadway premiere and reprised it in 2010 during the US national tour.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1489943854274994180)
+- [@TheaterAATW: &quot;Hop on these chances, if you can.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1489943509964664834)
+- [@TheaterAATW: &quot;In the 1994 episode “Emergence“, android Lieutenant Commander Data is performing the role of exiled magician Prospero from The Tempest on the holodeck.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489898865578983428)
 <!-- TWITTER:END -->
