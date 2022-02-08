@@ -46,9 +46,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;In Smith’s performance we could yet detect the effect of witnessing, a residue of her own participation in the events even if only as a recorder and performer.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489944167484641288)
-- [@TheaterAATW: &quot;The nominees have been announced for this year&#39;s BAFTAs.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1489944026396737538)
-- [@TheaterAATW: &quot;Taking on the central role of Celie &lpar;once again&rpar; will be Fantasia Barrino, who assumed the role from 2007 to 2008 in the show&#39;s Broadway premiere and reprised it in 2010 during the US national tour.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1489943854274994180)
-- [@TheaterAATW: &quot;Hop on these chances, if you can.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1489943509964664834)
-- [@TheaterAATW: &quot;In the 1994 episode “Emergence“, android Lieutenant Commander Data is performing the role of exiled magician Prospero from The Tempest on the holodeck.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489898865578983428)
+- [@TheaterAATW: &quot;The cast also includes Jewelle Blackman, Jessie Shelton, and Kay Trinidad as the Fates, and Lana Gordon as the Persephone alternate.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1490832115248037890)
+- [@TheaterAATW: &quot;Jane Lynch will play Mrs. Rose Brice and Jared Grimes will play Eddie Ryan.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1490832043734966278)
+- [@TheaterAATW: &quot;This would be unsurprising for a drama written in the 1960s or 1970s, but for a 1999 play it’s a touch woeful.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1490831992400883714)
+- [@TheaterAATW: &quot;The MoMA favorite “Her Man,” with Twelvetrees, screens on Sunday and Feb. 17.BEN KENIGSBERG&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1490831891515293701)
+- [@TheaterAATW: &quot;&lpar;Families seeking access to both on-site and online events must purchase admission separately.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1490831403029868545)
 <!-- TWITTER:END -->
