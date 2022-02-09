@@ -46,9 +46,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;In Smith’s performance we could yet detect the effect of witnessing, a residue of her own participation in the events even if only as a recorder and performer.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489944167484641288)
-- [@TheaterAATW: &quot;The nominees have been announced for this year&#39;s BAFTAs.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1489944026396737538)
-- [@TheaterAATW: &quot;Taking on the central role of Celie &lpar;once again&rpar; will be Fantasia Barrino, who assumed the role from 2007 to 2008 in the show&#39;s Broadway premiere and reprised it in 2010 during the US national tour.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1489943854274994180)
-- [@TheaterAATW: &quot;Hop on these chances, if you can.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1489943509964664834)
-- [@TheaterAATW: &quot;In the 1994 episode “Emergence“, android Lieutenant Commander Data is performing the role of exiled magician Prospero from The Tempest on the holodeck.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1489898865578983428)
+- [@TheaterAATW: &quot;In our first plot twist, Tambo and Bones discover they are the products of a minstrel show.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1491194581316210690)
+- [@TheaterAATW: &quot;And if Plater’s play cannot really do this, it does provide a humorous portrait of late 1960s theater and a picture of Peggy that emphasizes her more exasperating characteristics.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1491194480787030018)
+- [@TheaterAATW: &quot;Directed by Gregory Doran, the piece will run at the Royal Shakespeare Theatre from 23 June to 8 October 2022.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1491194478081843208)
+- [@TheaterAATW: &quot;Casey Hushion directs with a steady eye toward possible laughs, and Lee Savage’s set conveys an appropriately stuffy mansion, with hidden passages and falling chandeliers.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1491194309630218247)
+- [@TheaterAATW: &quot;Joel Coen&#39;s adaptation of Shakespeare&#39;s The Tragedy of Macbeth received three nominations, including Best Leading Actor for Denzel Washington in the title role.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1491149276789026822)
 <!-- TWITTER:END -->
