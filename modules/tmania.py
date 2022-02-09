@@ -33,6 +33,7 @@ def scrape_tmania():
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
     links = tree.xpath('//a[@class="styled__CssContentLinkTitle-sc-2vb2mr-2 fqiVOp"]//@href')
+    random.shuffle(links) #shuffle the list for more randomization
 
 #we got the content/link above
 

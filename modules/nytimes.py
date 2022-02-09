@@ -35,6 +35,7 @@ def scrape_nytimes():
     links1 = tree.xpath('//h2[@class="css-171kk9w e4e4i5l1"]/a/@href')
     links2 = tree.xpath('//div[@class="css-1l4spti"]/a/@href')
     links = links2+links1
+    random.shuffle(links) #shuffle the list for more randomization
     #print(links)
 
     #we got the content/link above

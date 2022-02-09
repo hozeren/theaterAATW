@@ -33,6 +33,7 @@ def scrape_wostage():
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
     links = tree.xpath(u'//div[@class="styled__CssContentListInfo-sc-2vb2mr-1 khmdNV"]/a/@href')
+    random.shuffle(links) #shuffle the list for more randomization
     #print(links)
     
     #we got the content/link above
