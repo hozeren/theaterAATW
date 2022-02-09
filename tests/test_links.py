@@ -19,3 +19,8 @@ def test_scrape_mania():
     texts = scrape_tmania()
     for text in texts:
         assert text, "TheaterMania texts works!"
+
+def test_scrape_ttimes():
+    texts = scrape_tmania()
+    for text in texts:
+        assert text, "TheaterMania texts works!"
