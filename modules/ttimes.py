@@ -34,7 +34,7 @@ def scrape_ttimes():
     tree = fromstring(r.content)
     links = tree.xpath('//div[@class="post-content"]/h3//@href')
     links.remove('https://thetheatretimes.com/the-glow-royal-court/')
-    random.shuffle(links)
+    random.shuffle(links) #shuffle the list for more randomization
     #print(links)
 #we got the content/link above
 
