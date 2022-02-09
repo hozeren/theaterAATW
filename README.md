@@ -46,9 +46,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;The cast also includes Jewelle Blackman, Jessie Shelton, and Kay Trinidad as the Fates, and Lana Gordon as the Persephone alternate.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1490832115248037890)
-- [@TheaterAATW: &quot;Jane Lynch will play Mrs. Rose Brice and Jared Grimes will play Eddie Ryan.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1490832043734966278)
-- [@TheaterAATW: &quot;This would be unsurprising for a drama written in the 1960s or 1970s, but for a 1999 play it’s a touch woeful.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1490831992400883714)
-- [@TheaterAATW: &quot;The MoMA favorite “Her Man,” with Twelvetrees, screens on Sunday and Feb. 17.BEN KENIGSBERG&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1490831891515293701)
-- [@TheaterAATW: &quot;&lpar;Families seeking access to both on-site and online events must purchase admission separately.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1490831403029868545)
+- [@TheaterAATW: &quot;In our first plot twist, Tambo and Bones discover they are the products of a minstrel show.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1491194581316210690)
+- [@TheaterAATW: &quot;And if Plater’s play cannot really do this, it does provide a humorous portrait of late 1960s theater and a picture of Peggy that emphasizes her more exasperating characteristics.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1491194480787030018)
+- [@TheaterAATW: &quot;Directed by Gregory Doran, the piece will run at the Royal Shakespeare Theatre from 23 June to 8 October 2022.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1491194478081843208)
+- [@TheaterAATW: &quot;Casey Hushion directs with a steady eye toward possible laughs, and Lee Savage’s set conveys an appropriately stuffy mansion, with hidden passages and falling chandeliers.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1491194309630218247)
+- [@TheaterAATW: &quot;Joel Coen&#39;s adaptation of Shakespeare&#39;s The Tragedy of Macbeth received three nominations, including Best Leading Actor for Denzel Washington in the title role.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1491149276789026822)
 <!-- TWITTER:END -->
