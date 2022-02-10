@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 import pytest
-from theaterAATW.modules.nytimes import scrape_nytimes
-from theaterAATW.modules.wostage import scrape_wostage
-from theaterAATW.modules.tmania import scrape_tmania
-from theaterAATW.modules.ttimes import scrape_ttimes
+from modules.nytimes import scrape_nytimes
+from modules.wostage import scrape_wostage
+from modules.tmania import scrape_tmania
+from modules.ttimes import scrape_ttimes
 
 def test_scrape_nytimes():
     nytimes_text = scrape_nytimes()
