@@ -46,5 +46,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired - Thu Feb 10 2022](https://rss.app)
+- [@TheaterAATW: &quot;This post was written by Nobuko Tanaka.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6b7bd61d069764dd6ce6c01672108b32)
+- [@TheaterAATW: &quot;&quot;It was so late in production that they were like, &#39;Lin, we won&#39;t make the movie in time.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6b7bd616069667d260e7cb167c118333)
+- [@TheaterAATW: &quot;Northern Broadsides and New Vic Theatre&#39;s co-production of As You Like It will run from 10 to 14 May after premiering this week at the New Vic.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6b7bd616079069d06de6ca137916893f)
+- [@TheaterAATW: &quot;&lpar;The show’s “Michael Jackson movement” is credited to two additional choreographers, Rich + Tone Talauega.&rpar;&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6b7bd616099062dc6ae8c4157c178a38)
+- [@TheaterAATW: &quot;This post was written by Mark Byron.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6b7bda10099169dd6ce3c4167b1c8233)
 <!-- TWITTER:END -->

@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TWITTER"
-          feed_list: "https://rss.app/feeds/rJXdi6L6HOpm9LpU.xml"
+          feed_list: "https://rss.app/feeds/RoPOx0BgFZICCQ2m.xml"
           commit_message: "Updated with the latest tweets"
