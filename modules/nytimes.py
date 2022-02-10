@@ -6,7 +6,7 @@ from lxml.html import fromstring
 import nltk, sys, requests
 nltk.download('punkt', quiet=True) 
 from twython import Twython, TwythonError
-from theaterAATW.bin.extract import Extract
+from bin.extract import Extract
 from theaterAATW.auth import (
     apiKey,
     apiSecret,
