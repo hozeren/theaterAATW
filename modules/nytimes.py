@@ -7,7 +7,7 @@ import nltk, sys, requests
 nltk.download('punkt', quiet=True) 
 from twython import Twython, TwythonError
 from bin.extract import Extract
-from theaterAATW.auth import (
+from auth import (
     apiKey,
     apiSecret,
     accessToken,
