@@ -21,7 +21,8 @@ setup(
     install_requires=[
         'twython',
         'pandas',
-        'nltk'
+        'nltk',
+        'lxml'
     ],
     packages=find_packages(include=['theaterAATW', 'theaterAATW.*']),
     python_requires=">=3.6",
