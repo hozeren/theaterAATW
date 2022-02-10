@@ -46,9 +46,5 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;In our first plot twist, Tambo and Bones discover they are the products of a minstrel show.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1491194581316210690)
-- [@TheaterAATW: &quot;And if Plater’s play cannot really do this, it does provide a humorous portrait of late 1960s theater and a picture of Peggy that emphasizes her more exasperating characteristics.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1491194480787030018)
-- [@TheaterAATW: &quot;Directed by Gregory Doran, the piece will run at the Royal Shakespeare Theatre from 23 June to 8 October 2022.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1491194478081843208)
-- [@TheaterAATW: &quot;Casey Hushion directs with a steady eye toward possible laughs, and Lee Savage’s set conveys an appropriately stuffy mansion, with hidden passages and falling chandeliers.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1491194309630218247)
-- [@TheaterAATW: &quot;Joel Coen&#39;s adaptation of Shakespeare&#39;s The Tragedy of Macbeth received three nominations, including Best Leading Actor for Denzel Washington in the title role.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1491149276789026822)
+- [[Action required] Your RSS.app Trial has Expired - Thu Feb 10 2022](https://rss.app)
 <!-- TWITTER:END -->
