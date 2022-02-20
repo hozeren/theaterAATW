@@ -30,5 +30,6 @@ class Outbound():
             print(result['id_str'])
             return results
 
-#a = Favorite(keywords)
-#print (a.search_twitter())
+keywords = []
+a = Outbound(keywords)
+print (a.search_twitter())
