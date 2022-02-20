@@ -16,20 +16,23 @@ from theaterAATW.auth import (
     HEADERS
 )
 
-#keywords = ['theater']
+keywords = ['theater']
 api = Twython(apiKey,apiSecret,accessToken,accessTokenSecret)
 
 class Outbound():
     def __init__(self, keywords):
         self.keywords = keywords
 
-
-    def search_twitter(self):
+    def favorite_twitter(self):
         results = api.cursor(api.search, q=self.keywords)
         for result in results:
-            print(result['id_str'])
-            return results
+            try:
+                api.create_favorite(id=result['id'])
+                print("Bot liked: "+result['text'])
+                sleep(1200)
+            except (StopIteration, IndexError, TwythonError):
+                stop
 
-keywords = []
 a = Outbound(keywords)
-print (a.search_twitter())
+a.favorite_twitter()
+
