@@ -2,9 +2,7 @@
 import random
 import time
 
-from lxml.html import fromstring
-import nltk, sys, requests
-nltk.download('punkt', quiet=True)
+import sys, requests
 from twython import Twython, TwythonError
 from theaterAATW.bin.extract import Extract
 import sys, requests
@@ -29,7 +27,7 @@ class Outbound():
             try:
                 api.create_favorite(id=result['id'])
                 print("Bot liked: "+result['text'])
-                sleep(1200)
+                time.sleep(1200)
             except (StopIteration, IndexError, TwythonError):
                 stop
 
