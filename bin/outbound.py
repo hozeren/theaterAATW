@@ -29,8 +29,5 @@ class Outbound():
                 print("Bot liked: "+result['text'])
                 time.sleep(1200)
             except (StopIteration, IndexError, TwythonError):
-                stop
-
-a = Outbound(keywords)
-a.favorite_twitter()
+                
 
