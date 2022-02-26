@@ -25,13 +25,14 @@ A Twitter bot that posts scrapped text and links from specified theater websites
 ## Usage
   There are two website functions now including [New York Times](https://www.nytimes.com/section/theater), [Whatsonstage](https://www.whatsonstage.com/news/?categories=theatre-news), [The Theatre Times](https://thetheatretimes.com/featured/), and [TheaterMania](https://www.theatermania.com/news/). To use the functions after installation;
   ```bash
-usage: theateraatw [-h] [nytimes] [wostage] [tmania] [ttimes]
+usage: theateraatw [-h] [nytimes] [wostage] [tmania] [ttimes] [fav]
 
 positional arguments:
   nytimes     Start scraping and sending tweets from New York Times.
   wostage     Start scraping and sending tweets from WhatsOnStage.
   tmania      Start scraping and sending tweets from TheaterMania.
   ttimes      Start scraping and sending tweets from The Theatre Times.
+  fav         Favorite the tweets, use with following keywords.
 
 optional arguments:
   -h, --help  show this help message and exit

@@ -11,6 +11,7 @@ from theaterAATW.modules.nytimes import scrape_nytimes
 from theaterAATW.modules.wostage import scrape_wostage
 from theaterAATW.modules.tmania import scrape_tmania
 from theaterAATW.modules.ttimes import scrape_ttimes
+from theaterAATW.bin.outbound import Outbound
 from twython import Twython, TwythonError
 from theaterAATW.auth import (
     apiKey,
@@ -52,10 +53,11 @@ def main():
     parser.add_argument("wostage", nargs='?', help="Start scraping and sending tweets from WhatsOnStage.")
     parser.add_argument("tmania", nargs='?', help="Start scraping and sending tweets from TheaterMania.")
     parser.add_argument("ttimes", nargs='?', help="Start scraping and sending tweets from The Theatre Times.")
+    parser.add_argument("fav", nargs='?', help="Favorite the tweets, use with following keywords.")
     args = parser.parse_args()
     
     if len(sys.argv) == 1: 
-        print("You should put the arguments: nytimes or wostage or tmania or ttimes")
+        parser.print_help()
         return
 
     #elif sys.argv[1] == "-h":
@@ -78,6 +80,17 @@ def main():
         news_funcs = ['scrape_ttimes']
         print('-------The Theatre Times Bot started.-------')
     
+    elif sys.argv[1] == 'fav':
+        if len(sys.argv) < 3:
+            parser.print_help()
+            return
+        else:
+            keywords = sys.argv[2:]
+            print('KEYWORDS: '+str(keywords))
+            a = Outbound(keywords)
+            a.favorite_twitter()
+            return
+
     else: 
         parser.print_help()
         return
