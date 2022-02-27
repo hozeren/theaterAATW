@@ -15,12 +15,7 @@ def test_scrape_wostage():
     for text in wostage_text:
         assert text, "Wostage texts works!"
 
-def test_scrape_mania():
-    texts = scrape_tmania()
-    for text in texts:
-        assert text, "TheaterMania texts works!"
-
-def test_scrape_ttimes():
-    texts = scrape_tmania()
-    for text in texts:
+def test_scrape_tmania():
+    tmania_texts = scrape_tmania()
+    for text in tmania_texts:
         assert text, "TheaterMania texts works!"
