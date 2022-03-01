@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;I think there are probably two reasons why they came together in my mind.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6d7edc1d079b62d46ae8c0137e108332)
-- [@TheaterAATW: &quot;David: I think the issues at the heart of the play are very much on the surface again.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6d7edc1d0f9164d168e7c5107b118a38)
-- [@TheaterAATW: &quot;Julius D&#39;Silva &lpar;Made In Dagenham&rpar; will also join the cast as Lance, opposite the recently revealed Keala Settle as Nurse.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6d7edc1c069068dd6ee2ca127f108a3d)
-- [@TheaterAATW: &quot;&lpar;This year’s Tony calendar has not yet been announced, but the season is expected to end in late April, followed by nominations, voting and an awards ceremony.&rpar;&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6d7edc1c079a65d160e7c1147a128b3e)
-- [@TheaterAATW: &quot;I head to the world premiere of Return to the Dirt by Steve Pirie without reading the press materials.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6d7fd6100a9562d36fe5c717791c8f39)
+- [@TheaterAATW: &quot;CP: I have worked with Adam and Steven for over a decade now.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6279dd130b9360d36de7c6177c138839)
+- [@TheaterAATW: &quot;As an insightful example of a great writer learning his craft, The Daughter-in-Law has value, but a great play it is not.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6279dd120c9660dd60e8c11379168d38)
+- [@TheaterAATW: &quot;Tweets by WhatsOnStage&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6279dd120d9665d56de6c51579118e38)
+- [@TheaterAATW: &quot;I thought the masks were going to feel weird, but it doesn’t.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6279dd120e9665dd61e7c31372178b3c)
+- [@TheaterAATW: &quot;It’s a unique challenge to review the script of a musical compared to that of a straight play.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab627ed7160f9464d36fe4c1167c108d3a)
 <!-- TWITTER:END -->
