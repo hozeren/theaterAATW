@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;CP: I have worked with Adam and Steven for over a decade now.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6279dd130b9360d36de7c6177c138839)
-- [@TheaterAATW: &quot;As an insightful example of a great writer learning his craft, The Daughter-in-Law has value, but a great play it is not.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6279dd120c9660dd60e8c11379168d38)
-- [@TheaterAATW: &quot;Tweets by WhatsOnStage&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6279dd120d9665d56de6c51579118e38)
-- [@TheaterAATW: &quot;I thought the masks were going to feel weird, but it doesn’t.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6279dd120e9665dd61e7c31372178b3c)
-- [@TheaterAATW: &quot;It’s a unique challenge to review the script of a musical compared to that of a straight play.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab627ed7160f9464d36fe4c1167c108d3a)
+- [@TheaterAATW: &quot;  &lpar;accessed 1 June 2021&rpar;.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab627ad71d079b68d26de6c61a7e118c3a)
+- [@TheaterAATW: &quot;Additional information, including the theater and creative team, will be announced in the coming months.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab627ad71c089b68d06ce8c5127a128838)
+- [@TheaterAATW: &quot;Telling a true story about survival and a brush with mortality, the 70-minute piece will run from 25 May.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab627ad71c099b67dd69e8c31b73108d3f)
+- [@TheaterAATW: &quot;I probably shouldn’t admit this, but I don’t keep any fan mail or fan art or show paraphernalia.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab627ad71c0a9468d26ae8c7167e13883c)
+- [@TheaterAATW: &quot;Here, Abramović trades her signature live body art for ghosts, replacing physical interventions with a series of haunting special effects.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab627adb100a9b66d760e0c1127f148c3a)
 <!-- TWITTER:END -->
