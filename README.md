@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;This post was written by Aleks Sierz.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab637cda160c9561dd6fe3c1147c12893f)
-- [@TheaterAATW: &quot;Off-Broadway&#39;s Transport Group will present a revival of David Greenspan&#39;s solo show The Patsy, beginning performances March 30 at Abrons Arts Center.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab637cda150d9162d46ae5c51a7e128c38)
-- [@TheaterAATW: &quot;BBC Arts has revealed fresh initiatives to provide broadcasts and platforms for shows, companies and venues in theatre and beyond.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab637cda150e9163d06be2c6137f108a39)
-- [@TheaterAATW: &quot;The seating faces the center of the space, where the two actors spend most of the play.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab637cda150f9261d76de0ca1b7d17893f)
-- [@TheaterAATW: &quot;It allocates resources asymmetrically, on the basis of precedent, often with scant regard for shifting demographics and societal change.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab637cdf130f9663d661e9c1157d108f33)
+- [@TheaterAATW: &quot;The trilogy, ‘The Norman Conquests’ is a dark, realistic comedy.”&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6378de10079469dc6be6c71673168238)
+- [@TheaterAATW: &quot;Original company member Anna Uzele will play her final performance as Catherine Parr on Sunday, March 13.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6378de17099460d56ee4c6117313893c)
+- [@TheaterAATW: &quot;Tonight&#39;s the night!&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6378de170a9663d76ee7c610721d8e3f)
+- [@TheaterAATW: &quot;After a year’s absence because of the pandemic, this touring onstage celebration of the “Sesame Street” series has returned to the Hulu Theater at Madison Square Garden.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6378de170b9766d26be0c1117812883d)
+- [@TheaterAATW: &quot;But not everyone is keen.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6379d91d0a9467d36ee3c5167911883f)
 <!-- TWITTER:END -->
