@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;The trilogy, ‘The Norman Conquests’ is a dark, realistic comedy.”&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6378de10079469dc6be6c71673168238)
-- [@TheaterAATW: &quot;Original company member Anna Uzele will play her final performance as Catherine Parr on Sunday, March 13.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6378de17099460d56ee4c6117313893c)
-- [@TheaterAATW: &quot;Tonight&#39;s the night!&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6378de170a9663d76ee7c610721d8e3f)
-- [@TheaterAATW: &quot;After a year’s absence because of the pandemic, this touring onstage celebration of the “Sesame Street” series has returned to the Hulu Theater at Madison Square Garden.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6378de170b9766d26be0c1117812883d)
-- [@TheaterAATW: &quot;But not everyone is keen.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6379d91d0a9467d36ee3c5167911883f)
+- [@TheaterAATW: &quot;Likewise, Alice’s name encourages comparisons with the looking glass wonderland of online relationships.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6375d8130c9669d469e2c3177b108d3f)
+- [@TheaterAATW: &quot;DeBose plays Anita, the role that earned Rita Moreno an Academy Award back in 1962.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6375d8120e9668d66fe3c2167b138b3d)
+- [@TheaterAATW: &quot;The longtime musical director at the Ospedale della Pietà, a Venice home for foundlings, he trained many gifted girls for its acclaimed orchestra and choir.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6375d811079b65d069e0c71778148932)
+- [@TheaterAATW: &quot;In a world where cinematic staging has received a bad rap, this is an example of just how beautifully it can go.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6375dc160f9766d569e7cb1b7210893e)
+- [@TheaterAATW: &quot;Musical supervision, music direction, and orchestrations are by Howland, with arrangements by Howland and Kirwan.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f7ab6375dc14079664d76fe3c71578108e3f)
 <!-- TWITTER:END -->
