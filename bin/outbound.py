@@ -23,11 +23,11 @@ class Outbound():
 
     def favorite_twitter(self):
         results = api.cursor(api.search, q=self.keywords)
-        for result in results:
+        for result in results_random:
             try:
                 api.create_favorite(id=result['id'])
                 print("Bot liked: "+result['text'])
-                time.sleep(1200)
+                time.sleep(600)
             except (StopIteration, IndexError, TwythonError):
                 pass
 
