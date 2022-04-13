@@ -23,7 +23,7 @@ class Outbound():
 
     def favorite_twitter(self):
         results = api.cursor(api.search, q=self.keywords)
-        for result in results_random:
+        for result in results:
             try:
                 api.create_favorite(id=result['id'])
                 print("Bot liked: "+result['text'])
