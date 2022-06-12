@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;This post was written by Ivanka Apostolova Baskar.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a16f7ddb170d9165d46ae6c1177f178d32)
-- [@TheaterAATW: &quot;Ian Hallard&#39;s new comedy Horse-Play will be staged at Riverside Studios this summer.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a16f7ddb170e9067d26be1c4167a1d883c)
-- [@TheaterAATW: &quot;&quot;You&#39;re gonna have to take that up with Jesus,&quot; he says.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a16f7ddb170e9066d76be6c61472138a3f)
-- [@TheaterAATW: &quot;The idea in ‘The Cherry Orchard’ is the loss of a world, loss of connection, loss of each other, loss of this family.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a16f7ddb16069169d168e9c2147a108f3b)
-- [@TheaterAATW: &quot;It was usually done with thoughtful quizzes or stories that were told to small groups by crew members, but not always.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a16e74d613069162d26ce2c7107a168339)
+- [@TheaterAATW: &quot;  &lpar;accessed 30 July 2021&rpar;.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a16f79df11099469d668e8c01378128232)
+- [@TheaterAATW: &quot;Sesame Street: The Musical is directed and produced by Jonathan Rockefeller, with creative staff, special celebrity guests, and other information to be announced at a later date.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a16f79df110a9b66d66be9c3147b128f3b)
+- [@TheaterAATW: &quot;This year&#39;s bursaries also include new partnerships.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a16f79df110a9b60d369e3cb1b7c15893f)
+- [@TheaterAATW: &quot;“Seeing myself in one of those women I was attracted to I knew that I could love myself,” she said.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a16f79df110c9566d261e4c51373128e3d)
+- [@TheaterAATW: &quot;Albin Kurti, the Prime Minister of Kosovo who unlike his predecessors doesn’t look back nostalgically at the war of the 1990s, attended the premiere.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a16f7ed9140c9466d26ee4ca1178168a3c)
 <!-- TWITTER:END -->
