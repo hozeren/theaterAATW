@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;A crowdfunding campaign was quickly established to cover the penalties.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76b7ed91c079665dd60e5c01a781d8b3e)
-- [@TheaterAATW: &quot;With Tony and Tina, I was going to be the priest off-Broadway.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76b7ed91c099a67d768e8c4177217823e)
-- [@TheaterAATW: &quot;Orchestrations are by Larry Blank with new musical arrangements by Jason Carr.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76b7ed91c099168d76ee6ca167c12833b)
-- [@TheaterAATW: &quot;D’Astolfo is also an immensely likable performer.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76b7ed91c0a9a61d66fe1c71279158f3f)
-- [@TheaterAATW: &quot;Although some of them could work as children’s books or theatre in their own right, The Smallest Stage is about more than the stories themselves.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76b7edd170a9663d368e0c3117b108233)
+- [@TheaterAATW: &quot;This post was written by Aleks Sierz.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76b7adc150c9662dc69e1cb10721d8939)
+- [@TheaterAATW: &quot;That rehearsal was the first time I met anyone from this production in person; I had been Zooming with everyone for so long.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76b7adc150e9763d26ae5c0137916893d)
+- [@TheaterAATW: &quot;Somerville, best know for playing Lily Potter in the Harry Potter franchise, previously appeared in a 1989 production of the classic family drama at the same venue.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76b7adc150f9561d66ce9c21b781d8e3c)
+- [@TheaterAATW: &quot;“If you are a fan of his, or simply someone who has missed that kind of symbiosis between actor and audience, it’s a pleasure to watch.”&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76b7adc150f9262d661e7c110791c893a)
+- [@TheaterAATW: &quot;This post was written by Irem Yasar.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76b7bd7120f9660d06ee9ca1478138f3f)
 <!-- TWITTER:END -->
