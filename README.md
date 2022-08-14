@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;Where and when: Milnerton Playhouse from 13 to 28 May 2022&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76d75d616069b68d661e9ca157b118932)
-- [@TheaterAATW: &quot;Quotes have become their own form of currency and the threat of violence looms large as rival companies attempt to steal each other&#39;s scripts.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76d75d616099b60d56ce3c31372158d32)
-- [@TheaterAATW: &quot;Harper-Jackson hasn&#39;t revealed his role in Matilda, but confirmed the news in the Chess programme on Monday.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76d75d6160b9263d36fe5c1177d13883d)
-- [@TheaterAATW: &quot;“Silkworm,” at the Assembly Roxy, tells of a lesbian couple from Nigeria who arrive in Glasgow seeking permanent asylum in Britain.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76d75d6160e9160d168e9c4107a148e3d)
-- [@TheaterAATW: &quot;Everywhere I look you are winning an award, headlining a new play festival, getting a reading, being produced, writing for Netflix &lpar;I could go on!&rpar;.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76d75db13099b66d66ee6c7167816823d)
+- [@TheaterAATW: &quot;So . . .&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a7627fda110b9160dc6ae4c7117b158a38)
+- [@TheaterAATW: &quot;Soara-Joye Ross, Jessie Shelton, and Kay Trinidad are featured as the Fates.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a7627fda110e9165d46fe3c7177e138c3d)
+- [@TheaterAATW: &quot;The Broadway production has also issued a statement.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a7627fda10079765d661e0c7137a118e39)
+- [@TheaterAATW: &quot;That’s what makes all the Canadian revivals I saw so powerful.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a7627fda100a9064d36ee5ca127d108b39)
+- [@TheaterAATW: &quot;Most of us still feel the need to relate to other people, to interact with humans, not just through the things and structures we create but directly, physically.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a7627fde140e9268d26de8c5107c158b3f)
 <!-- TWITTER:END -->
