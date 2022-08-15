@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;So . . .&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a7627fda110b9160dc6ae4c7117b158a38)
-- [@TheaterAATW: &quot;Soara-Joye Ross, Jessie Shelton, and Kay Trinidad are featured as the Fates.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a7627fda110e9165d46fe3c7177e138c3d)
-- [@TheaterAATW: &quot;The Broadway production has also issued a statement.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a7627fda10079765d661e0c7137a118e39)
-- [@TheaterAATW: &quot;That’s what makes all the Canadian revivals I saw so powerful.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a7627fda100a9064d36ee5ca127d108b39)
-- [@TheaterAATW: &quot;Most of us still feel the need to relate to other people, to interact with humans, not just through the things and structures we create but directly, physically.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a7627fde140e9268d26de8c5107c158b3f)
+- [@TheaterAATW: &quot;Promoting inclusivity in broadcasting and remote viewing, the Liveness Plus element aims to provide audiences with modernized access to onsite experiences.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76274d7140d9665d368e6c7177f148f33)
+- [@TheaterAATW: &quot;Born in the United Kingdom, Newton-John emigrated with her family to Australia at the age of six.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76274d7140f9369dd60e1c31773168b33)
+- [@TheaterAATW: &quot;Joining the creative team are Ian Oakley as musical director, Ricardo Pardo as associate designer and Gail Parmel and Iona Waite as associate choreographers.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76274d81d089266d26ce9c7147d11883b)
+- [@TheaterAATW: &quot;“She had a real dedication to each show.”&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76274d81d0c9665dc68e5c016721c8e33)
+- [@TheaterAATW: &quot;This article was first published by Aleks Sierz on November 11, 2021, and has been reposted with permission.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76274dc10069663d768e7ca1a79178a39)
 <!-- TWITTER:END -->
