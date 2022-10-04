@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@TheaterAATW: It seems that @hazal_ozeren is the unofficial face of @motatos_uk in the UK.The actor, @hazal_ozeren, recently moved to the UK from Sweden! Bet we will see her more on the screen here soon.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a56c7bd913069366d26ae8c012721c8e3d)
 - [@TheaterAATW: &quot;Now I check what [work is being made] in Ukraine as well as in Russia and Georgia.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76378d91d0d9763d06ee4c6107f128f3b)
 - [@TheaterAATW: &quot;The production will star Marjan Neshat &lpar;Selling Kabul, English&rpar; and feature an original piano score by Matthew Dean Marsh.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76378d91c069467d761e1c2177e12833a)
 - [@TheaterAATW: &quot;Tickets are on sale below.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76378d91c099462d668e0c3117c1d893b)
 - [@TheaterAATW: &quot;“Every night is going to be something different, something stimulating.”&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76378d91c0d9b68d26de6c31b7f138e39)
-- [@TheaterAATW: &quot;With the freedom of anonymous sex, Adam literally and metaphorically steps off the family stage.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a76378dd17069761d46be8c61a7b11833b)
 <!-- TWITTER:END -->
