@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@TheaterAATW: &quot;To do so, they are willing to sacrifice almost anything.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6ab6275d81d099561dc6fe5c7137a128a32)
 - [@TheaterAATW: &quot;The Massimines sold their large Victorian house in Salt Lake City and moved in with Maggie’s parents in Queens.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6ab6275dc100c9660d768e9c2167e148e3c)
 - [@TheaterAATW: &quot;“It’s a great show, and the great classics do come back.”&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6ab627ad71d0f9768d66ae6c61272128338)
 - [@TheaterAATW: &quot;“Underneath the Skin” guides us through Steward’s early years and sexual adventures, his trips to Europe in the 1930s, where he met Stein, Thomas Mann and Lord Alfred Douglas.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6ab627adb150b9166dd61e0ca1a7d128b3a)
 - [@TheaterAATW: &quot;Like “Blackout Songs,” this loving reappraisal of “The Band’s Visit” brought the audience to its feet.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6ab627bd6120e9165d76ce0ca1a7f128c39)
-- [@TheaterAATW: &quot;He spoke, a little wistfully, about the fictional Chris, the one he has had to relinquish.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6ab627bda14079163d36ae0c6177a13833b)
 <!-- TWITTER:END -->
