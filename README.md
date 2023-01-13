@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;The set is littered with highway signs and mass transit insignia.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f5a36874d81c0f9468d661e3c4177e1c8c39)
-- [@TheaterAATW: &quot;But the festival merely doubled down, dismissing the concerns of the participating artists.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f5a36874d9150f9b67d36ae2c51573178b3e)
-- [@TheaterAATW: &quot;Elyria is described as follows: &quot;1982.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f5a36874d914079368d768e6c4117b17883c)
-- [@TheaterAATW: &quot;It will be in cinemas from 18 May – having picked up two five-star reviews from Sarah Crompton during its runs both at the Young Vic and in the West End.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f5a36874d914089660d561e0c1117c138933)
-- [@TheaterAATW: &quot;“Chicago” had the highest-grossing week in its 26-year history, as well as its highest single-performance gross.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f5a36874dc16089467d56ce1c41378178c3c)
+- [@TheaterAATW: &quot;I see Ray’s life and the world he inhabited as the seed for a larger world of invented characters and conflicts.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f5a3697edd170a9467d66ae6c217731d8f33)
+- [@TheaterAATW: &quot;You can see them in action here:&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f5a3697edd170d9567dd6fe8c41b73108839)
+- [@TheaterAATW: &quot;An Off-Broadway production with Daniel Radcliffe, Jonathan Groff and Lindsay Mendez is currently wowing audiences and critics in a sell-out New York run &lpar;the show will transfer to Broadway later this year&rpar;.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f5a3697edd170e9467dd6de2c31073138b3f)
+- [@TheaterAATW: &quot;He was 79.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f5a3697edf14089063d16fe2ca15781d893b)
+- [@TheaterAATW: &quot;This post was written by Borisav Matić.&quot; @TheTheatreTimes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f5a3697fd81c0d9564d16fe5c21b72138a3f)
 <!-- TWITTER:END -->
