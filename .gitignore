@@ -1,0 +1,6 @@
+__pycache__
+.eggs
+theateraatw.egg-info
+auth2.py
+nohup.out
+auth.py
