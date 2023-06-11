@@ -6,7 +6,8 @@ import sys, requests
 from twython import Twython, TwythonError
 from theaterAATW.bin.extract import Extract
 import sys, requests
-from theaterAATW.auth import (
+from random import randint
+from theaterAATW.auth2 import (
     apiKey,
     apiSecret,
     accessToken,
@@ -23,11 +24,14 @@ class Outbound():
 
     def favorite_twitter(self):
         results = api.cursor(api.search, q=self.keywords)
+
         for result in results:
             try:
                 api.create_favorite(id=result['id'])
                 print("Bot liked: "+result['text'])
-                time.sleep(600)
+                a = randint(600, 3600)
+                print('------ We will wait for ' + str(round(a / 60, 0)) + ' min for the next like. ------')
+                time.sleep(a)
             except (StopIteration, IndexError, TwythonError):
                 pass
 
