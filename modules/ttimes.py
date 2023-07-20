@@ -29,10 +29,10 @@ def scrape_ttimes():
     para = []
     paras = []
     e = Extract(para, paras)
-    url = 'https://thetheatretimes.com/latest-posts/'
+    url = 'https://thetheatretimes.com/latest/'
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
-    links = tree.xpath('//div[@class="post-content"]/h3//@href')
+    links = tree.xpath('//div[@class="post-content"]/h2//@href')
     #links.remove('https://thetheatretimes.com/the-glow-royal-court/')
     random.shuffle(links) #shuffle the list for more randomization
     #print(links)
