@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;“Nero.” PC: Molnár Edvárd.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1615951653269544961)
-- [@TheaterAATW: &quot;Blankson-Wood appeared as Orlando in last season&#39;s production of As You Like It, which featured music by Shaina Taub and a giant chorus.&quot; @theatermania](https://twitter.com/TheaterAATW/status/1615951043690467328)
-- [@TheaterAATW: &quot;The bio-musical, which boasts such classics as &quot;That&#39;ll Be The Day&quot;, &quot;Peggy Sue&quot; and &quot;Oh Boy&quot;, charts the rockabilly singer&#39;s rise to fame until his untimely death at the age of 22.&quot; @WhatsOnStage](https://twitter.com/TheaterAATW/status/1615950822717952001)
-- [@TheaterAATW: &quot;Backing into writing after a stint at the Asiatic Petroleum Company, his macabre voice and flights into fantasy were clearly engendered by brushes with death and violence.&quot; @nytimestheater](https://twitter.com/TheaterAATW/status/1615918631413583874)
-- [@TheaterAATW: &quot;This post was written by the author in their personal capacity.The opinions expressed in this article are the author’s own and do not reflect the view of The Theatre Times, their staff or collaborators.&quot; @TheTheatreTimes](https://twitter.com/TheaterAATW/status/1615906351384825856)
+- [&quot;“Nero.” PC: Molnár Edvárd.&quot; @TheTheatreTimes https://t.co/3lD5ZK9qDH](https://x.com/TheaterAATW/status/1615951653269544961)
+- [&quot;Blankson-Wood appeared as Orlando in last season&#39;s production of As You Like It, which featured music by Shaina Taub and a giant chorus.&quot; @theatermania https://t.co/rlISSA0HZV](https://x.com/TheaterAATW/status/1615951043690467328)
+- [&quot;The bio-musical, which boasts such classics as &quot;That&#39;ll Be The Day&quot;, &quot;Peggy Sue&quot; and &quot;Oh Boy&quot;, charts the rockabilly singer&#39;s rise to fame until his untimely death at the age of 22.&quot; @WhatsOnStage https://t.co/UglzusdMpJ](https://x.com/TheaterAATW/status/1615950822717952001)
+- [&quot;Backing into writing after a stint at the Asiatic Petroleum Company, his macabre voice and flights into fantasy were clearly engendered by brushes with death and violence.&quot; @nytimestheater https://t.co/BhTWFqG8T7](https://x.com/TheaterAATW/status/1615918631413583874)
+- [&quot;This post was written by the author in their personal capacity.The opinions expressed in this article are the author’s own and do not reflect the view of The Theatre Times, their staff or collaborators.&quot; @TheTheatreTimes https://t.co/KxzxS7e7m0](https://x.com/TheaterAATW/status/1615906351384825856)
 <!-- TWITTER:END -->
