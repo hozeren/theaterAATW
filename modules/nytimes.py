@@ -6,8 +6,8 @@ from lxml.html import fromstring
 import nltk, sys, requests
 nltk.download('punkt', quiet=True) 
 from twython import Twython, TwythonError
-from bin.extract import Extract
-from auth import (
+from theaterAATW.bin.extract import Extract
+from ..auth2 import (
     apiKey,
     apiSecret,
     accessToken,
@@ -32,7 +32,7 @@ def scrape_nytimes():
     url = 'https://www.nytimes.com/section/theater'
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
-    links1 = tree.xpath('//h2[@class="css-171kk9w e4e4i5l1"]/a/@href')
+    links1 = tree.xpath('//h3[@class="css-y494vq e1hr934v1"]/a/@href')
     links2 = tree.xpath('//div[@class="css-1l4spti"]/a/@href')
     links = links2+links1
     random.shuffle(links) #shuffle the list for more randomization

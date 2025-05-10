@@ -13,7 +13,7 @@ from theaterAATW.modules.tmania import scrape_tmania
 from theaterAATW.modules.ttimes import scrape_ttimes
 from theaterAATW.bin.outbound import Outbound
 from twython import Twython, TwythonError
-from theaterAATW.auth import (
+from theaterAATW.auth2 import (
     apiKey,
     apiSecret,
     accessToken,
@@ -33,7 +33,7 @@ __email__ = "denizozeren614@gmail.com"
 
 def share_twitter(news_funcs):
     """Encompasses the main loop of the bot."""
-    nltk.download('punkt') 
+    #nltk.download('punkt') 
     news_iterators = []  
     for func in news_funcs:
         news_iterators.append(globals()[func]())

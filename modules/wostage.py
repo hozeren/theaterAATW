@@ -6,8 +6,8 @@ from lxml.html import fromstring
 import nltk, sys, requests
 nltk.download('punkt', quiet=True) 
 from twython import Twython, TwythonError
-from bin.extract import Extract
-from auth import (
+from ..bin.extract import Extract
+from ..auth2 import (
     apiKey,
     apiSecret,
     accessToken,
@@ -32,23 +32,23 @@ def scrape_wostage():
     url = 'https://www.whatsonstage.com/news?categories=theatre-news'
     r = requests.get(url, headers=HEADERS)
     tree = fromstring(r.content)
-    links = tree.xpath(u'//div[@class="styled__CssContentListInfo-sc-2vb2mr-1 khmdNV"]/a/@href')
+    links = tree.xpath(u'//div[@class=" article-loop-container"]//a/@href')
     random.shuffle(links) #shuffle the list for more randomization
     #print(links)
     
     #we got the content/link above
 
     for link in links:
-        print('https://www.whatsonstage.com'+link)
-        r2 = requests.get('https://www.whatsonstage.com'+link, headers=HEADERS)
+        print(link)
+        r2 = requests.get(link, headers=HEADERS)
         blog_tree = fromstring(r2.content)
-        paras = blog_tree.xpath('//div[@itemprop="articleBody"]//p')
+        paras = blog_tree.xpath('//div[@class="entry-content"]//p')
         para = e.extract_paratext(paras)
         text = e.extract_text(para)
         if not text:
             continue
 
-        yield '"%s" %s %s' % (text, "@WhatsOnStage", 'https://www.whatsonstage.com'+link) #for the loop which may be stuck
-    return link
+        yield '"%s" %s %s' % (text, "@WhatsOnStage", link) #for the loop which may be stuck
+    #return link
     
     '''put the url behind if href is not full'''

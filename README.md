@@ -47,9 +47,9 @@ optional arguments:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@TheaterAATW: &quot;Part of that has to do with the fact that at this moment a lot of us are feeling the need for comedy.&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a36b7adb120a9062dd6ce2cb137c178a3d)
-- [@TheaterAATW: &quot;“I’m mad at myself for changing,” he tells the others when he admits that he couldn’t complete his film.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a36b7adb110b9360d568e1c0127f1c8b3f)
-- [@TheaterAATW: &quot;A hit revival subsequently began life at Curve in Leicester, before embarking on a tour.&quot; @WhatsOnStage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a36b7adc170a9060dd60e6c6167910883f)
-- [@TheaterAATW: &quot;Had you thought about doing opera at all before James Robinson at the Opera Theatre of Saint Louis approached you to write what eventually became Champion?&quot; @theatermania](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a36b7adf150d9167d069e0c617721c8f3f)
-- [@TheaterAATW: &quot;He also wrote and directed the film “Nola,” a romantic comedy starring Emmy Rossum which opened at the Tribeca Film Festival in 2003.&quot; @nytimestheater](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7e0d6e7953ba4b25088f10ba4482c9bc169f6a36b7adf140f9a67dc6fe3ca137c1d893f)
+- [&quot;“Nero.” PC: Molnár Edvárd.&quot; @TheTheatreTimes](https://x.com/TheaterAATW/status/1615951653269544961)
+- [&quot;Blankson-Wood appeared as Orlando in last season&#39;s production of As You Like It, which featured music by Shaina Taub and a giant chorus.&quot; @theatermania](https://x.com/TheaterAATW/status/1615951043690467328)
+- [&quot;The bio-musical, which boasts such classics as &quot;That&#39;ll Be The Day&quot;, &quot;Peggy Sue&quot; and &quot;Oh Boy&quot;, charts the rockabilly singer&#39;s rise to fame until his untimely death at the age of 22.&quot; @WhatsOnStage](https://x.com/TheaterAATW/status/1615950822717952001)
+- [&quot;Backing into writing after a stint at the Asiatic Petroleum Company, his macabre voice and flights into fantasy were clearly engendered by brushes with death and violence.&quot; @nytimestheater](https://x.com/TheaterAATW/status/1615918631413583874)
+- [&quot;This post was written by the author in their personal capacity.The opinions expressed in this article are the author’s own and do not reflect the view of The Theatre Times, their staff or collaborators.&quot; @TheTheatreTimes](https://x.com/TheaterAATW/status/1615906351384825856)
 <!-- TWITTER:END -->
